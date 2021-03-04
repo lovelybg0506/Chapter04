@@ -11,7 +11,7 @@ public class Ex04_14 {
 		
 		int score=s.nextInt();
 		
-		switch(score/=10) {
+		switch(score/10) {
 		case 10:
 		case 9:
 			grade='A';
